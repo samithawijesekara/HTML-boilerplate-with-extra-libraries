@@ -1,5 +1,6 @@
 # HTML-Structure-Template-to-Web-Developers
-HTML structure template for Online Development Testing &amp; Offline Development Testing
+HTML structure template for Online Development Testing &amp; Offline Development Testing<br>
+![GitHub all releases](https://img.shields.io/github/downloads/samithawijesekara/HTML-Structure-Template-for-Web-Developers/total?logo=GitHub)
 
 ### Package Includes
 -01 [Offline Web Development Testing HTML Structure](#Offline)<br>
