@@ -9,7 +9,7 @@ HTML structure template for Online Development Testing &amp; Offline Development
 ## 01.Offline Web Development Testing HTML Structure <a name="Offline"/>
 When you are develop website using without internet connection this template is really usefull for you. In this template I have included Bootstrap, Jquery and Animate.css in local folders. So you can easily  design, develop and testing your website locally. (without internet connection.)
 
-### Folder Structure:
+#### Folder Structure:
 
 - CSS
     - animate.css
@@ -28,7 +28,7 @@ When you are develop website using without internet connection this template is 
 
 ## 02.Online Web Development Testing HTML Structure <a name="Online"/>
 When you are develop website using internet connection this template is usefull for you. In this template I have included Bootstrap, Jquery and Animate.css with CDN links to index.html file. So you can easily  design, develop and testing your website with internet connection.
-### Folder Structure:
+#### Folder Structure:
 
 - style.css
 - script.js
