@@ -1,4 +1,4 @@
-# HTML-Structure-Template-for-Web-Developers
+# HTML boilerplate with extra libraries
 HTML structure template for Online Development Testing &amp; Offline Development Testing<br>
 
 ### Package Includes
